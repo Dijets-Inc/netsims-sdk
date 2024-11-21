@@ -4,13 +4,8 @@
 
 ---
 
-A Golang implementation for Dijets Node.
+Dijets Network Runner and Simulator for testing network and nodes before deploying.
 
-## Installation
+## Dijets NetSims SDK
 
-Dijets is an incredibly lightweight protocol, utilising a refined iteration of the HotStuff consensus protocol. The minimum computer requirements for running a Dijets Node are very modest.
-
-The recommended hardware specification for nodes connected to Mainnet is:
-
-
-# Dijets NetSims SDK
+NetSims-SDK allows developers to define, create, and interact with a network of Dijets nodes. Devs and system integrators can run networks of Dijets nodes with support for custom nodes, ECCs, and network configurations. With NetSims, developers can easily test code locally before deploying to public testnets like Lothar Testnet or Mainnet.
